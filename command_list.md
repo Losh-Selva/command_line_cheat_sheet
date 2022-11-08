@@ -1,3 +1,3 @@
-# **Cheat Sheet** 
+# Cheat sheet #
 
-##
+**Terminal commands**
