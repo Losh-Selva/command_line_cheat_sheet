@@ -34,5 +34,18 @@
 **If you by any chance are unlucky enough to type in `rm ~` then I am sorry ![too late](https://media1.giphy.com/media/X07Uc86CHuMwgMFGSr/giphy.gif?cid=ecf05e47k0xmf9guybqnlj173fh5zi19hm42r65s9e9k6pam&rid=giphy.gif&ct=g)** 
 
 
+## **Git commands**
 
+`git init`- will create a new local repository
 
+`git add`- this wil allow the user to add one or more files
+
+💭 Remember to save your work before adding otherwise nothing will be added. 
+
+`git commit -m"message"`- this will add chnages to the head in your local directory but not implement them in the remote repository. 
+
+`git push`- once all the chnages have been checked and you are satisfied, you can use this command to change the remote repository. 
+
+`git pull`- this is the opposite of the push command and will pull the files from your remote repository hence merging the changes onto your local working directory. 
+
+`.gitignore`- this is used to select and add files that you would not like to add onto your remote repository.  
