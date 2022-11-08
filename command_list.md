@@ -13,8 +13,15 @@
 
 💭 Remember to use the *tab* key to cycle through your options quicker, which will save you a lot of time in the long run!
 
-`mkdir` 
+`mkdir`- you may have worked out is the abbreviated form of make directory, as stated in the name it allows the user to create a new directory. 
 
+ ⚠️ Remember to be very careful when naming your directories as blank spaces can often be miscontrued. It is better practise to use underscores or remove the whitespace and capitalise new words. 
+
+`touch`- this command can be used to make a new file. 
+- Remember when doing so to add the correct file extension! 
+
+`open`- this is pretty self explantory; it will open the file using the default program. 
+- we can open secifically open files on VS Code via: `code name_of_your_file.md` 
 
 
 
